@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'Ngfliy0zEULxITiYHADxMFGRrwXXOGQbK71WwxTKhrVzlxlz', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'r51LCyUaIguyI6nK48bppmtDhzUyleR5rPh3h6RhZYo7EEo9', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [582326500], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'ThermoTest', // Replaces Xively logo in the header
 		dataDuration	= '10days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
