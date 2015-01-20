@@ -149,7 +149,7 @@
 										width: 600,
 										height: 200,
 										renderer: 'line',
-										min: 0,
+										min: 10,
 										max: 30,
 										
 										//min: parseFloat(datastream.min_value) - .25*(parseFloat(datastream.max_value) - parseFloat(datastream.min_value)),
